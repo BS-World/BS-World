@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm 👑 Bhanu Pratap Biswas 👑</h1>
+<img src="https://png.pngtree.com/background/20230318/original/pngtree-science-and-technology-big-data-operation-panel-advertising-background-picture-image_2150262.jpg">
 <h3 align="center">A passionate Data Analyst & Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-world&label=Profile%20views&color=0e75b6&style=flat" alt="bs-world" /> </p>
