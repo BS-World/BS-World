@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm 👑 Bhanu Pratap Biswas 👑</h1>
 <h3 align="center">A passionate Data Analyst & Scientist</h3>
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*er2Urv7q2ZiDNehV.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-world&label=Profile%20views&color=0e75b6&style=flat" alt="bs-world" /> </p>
 
