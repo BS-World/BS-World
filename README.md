@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm 👑 Bhanu Pratap Biswas 👑</h1>
-<img src="https://png.pngtree.com/background/20230318/original/pngtree-science-and-technology-big-data-operation-panel-advertising-background-picture-image_2150262.jpg">
 <h3 align="center">A passionate Data Analyst & Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-world&label=Profile%20views&color=0e75b6&style=flat" alt="bs-world" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bs-world" alt="bs-world" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bhanupr40063464" target="blank"><img src="https://img.shields.io/twitter/follow/bhanupr40063464?logo=twitter&style=for-the-badge" alt="bhanupr40063464" /></a> </p>
 
 - 🔭 I’m currently working on [IRIS FLOWER CLASSIFICATION](https://www.kaggle.com/code/bhanupratapbiswas/iris-flower-classification)
 
