@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm 👑 Bhanu Pratap Biswas 👑</h1>
 <h3 align="center">A passionate Data Analyst & Scientist</h3>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJOrSy-w7lcr4m6I_V0ptOpJ-vibB3V7CbgJgaJdwG1kFHzUhnZJ2p6o9AHYels7S9FjiJVqrlfrAax-jA0_Nr9B9GPtT1pdBj6urkQ6vao6PI3u2jM_5WLHo_nLuPfZ3fUgpm-EKKcM1swfBy8YMFPwjUywwue2ZZqgbXAWYaaw4IQ8n8quoQt_JTVy0/w639-h283/notebook.png">
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*er2Urv7q2ZiDNehV.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-world&label=Profile%20views&color=0e75b6&style=flat" alt="bs-world" /> </p>
