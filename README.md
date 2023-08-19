@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm 👑 Bhanu Pratap Biswas 👑</h1>
 <h3 align="center">A passionate Data Analyst & Scientist</h3>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJOrSy-w7lcr4m6I_V0ptOpJ-vibB3V7CbgJgaJdwG1kFHzUhnZJ2p6o9AHYels7S9FjiJVqrlfrAax-jA0_Nr9B9GPtT1pdBj6urkQ6vao6PI3u2jM_5WLHo_nLuPfZ3fUgpm-EKKcM1swfBy8YMFPwjUywwue2ZZqgbXAWYaaw4IQ8n8quoQt_JTVy0/w639-h283/notebook.png">
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*er2Urv7q2ZiDNehV.jpg" wedth=100%>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBfMTG_d2mzNZcqUd3gpgLhQe6dj3P93I0JDsCgcwM6PrabwF0rUaviWQkq_HOia9GX5-OSBDQB4FFI2RObiwva2pLS6bWMBJeuc_adQce6gEZPwGY9aj8fO6orZ4UgFWgsP8wGRsSzk04GrrQZE4YOGj_7b2YoRfHzj6GeUSLrwjl1P7UhZXRB3DW3LMr/s1600/notebook.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="541" data-original-width="1221" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBfMTG_d2mzNZcqUd3gpgLhQe6dj3P93I0JDsCgcwM6PrabwF0rUaviWQkq_HOia9GX5-OSBDQB4FFI2RObiwva2pLS6bWMBJeuc_adQce6gEZPwGY9aj8fO6orZ4UgFWgsP8wGRsSzk04GrrQZE4YOGj_7b2YoRfHzj6GeUSLrwjl1P7UhZXRB3DW3LMr/s1600/notebook.png"/></a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-world&label=Profile%20views&color=0e75b6&style=flat" alt="bs-world" /> </p>
 
